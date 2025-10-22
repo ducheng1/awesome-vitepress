@@ -1,0 +1,19 @@
+{
+  "name": "awesome-vitepress",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducheng1/awesome-vitepress"
+  },
+  "scripts": {
+    "format": "prettier . --write --ignore-unknown"
+  },
+  "author": "ducheng1<w729567588@163.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
