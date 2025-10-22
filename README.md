@@ -1,16 +1,16 @@
-<p style="text-align: center;">
+<p align="center">
   <img src="./assets/logo.svg" alt="logo" style="width: 400px" />
 </p>
 
 <br />
 
-<h2 style="text-align: center">awesome vitepress</h2>
+<h2 align="center">awesome vitepress</h2>
 
-<p style="text-align: center">
+<p align="center">
 A collection of <a href="https://github.com/vuejs/vitepress">vitepress 2.x</a> awesome plugins and themes.
 </p>
 
-<p style="text-align: center">
+<p align="center">
 This project is inspired by <a href="https://github.com/vitejs/awesome-vite">awesome-vite</a>.
 </p>
 
